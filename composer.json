@@ -1,0 +1,9 @@
+{
+	"name" : "modern-media/aws-s3-backup-bucket",
+	"description": "Back up a bucket from the command line",
+	"license" : "proprietary",
+	"require": {
+		"aws/aws-sdk-php": "2.6.0"
+	}
+
+}
